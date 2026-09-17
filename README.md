@@ -75,6 +75,7 @@ The report is self-contained. **Data → Refresh All** refreshes the PivotTables
 ### Power BI visualization
 
 [Report_UE_energy_price_analysis.pbix](power-bi/Report_UE_energy_price_analysis.pbix) brings together price KPI cards, a negative-price percentage measure, a time-series chart, an average-price comparison by market and a market slicer.
+![Power BI dashboard](screenshots/power-bi-report.png)
 
 ## Files
 
