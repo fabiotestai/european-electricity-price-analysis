@@ -1,3 +1,3 @@
-# Power Query M files use the ambiguous .m extension.
-# Prevent GitHub from classifying them as Wolfram Language.
-power-query/*.m linguist-language=Text linguist-detectable=false
+# Power Query M uses the ambiguous .m extension.
+# Exclude it from GitHub language statistics.
+power-query/*.m -linguist-detectable
