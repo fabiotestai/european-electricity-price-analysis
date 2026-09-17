@@ -1,0 +1,12 @@
+# Local data and working databases
+data/raw/
+data/processed/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+desktop.ini
